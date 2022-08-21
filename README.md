@@ -2,7 +2,9 @@ I made a quadruped walking robot.
 
 Operation can be done with a smartphone using Blynk.
 
-See my blog for details.
+See my WebSite for details.
+
+<a href="https://s-fishing.com/resthouse/archives/category/electronic/micom/robot">https://s-fishing.com/resthouse/archives/category/electronic/micom/robot</a>
 
 It's the first robot I made, so I think there are many things that are not good.
 
